@@ -5,6 +5,15 @@ __UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World (CV
 
 If you find this project useful in your research, you are encouraged to cite our paper: 
 
+```
+@inproceedings{long2020unreal,
+  title={UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World},
+  author={Long, Shangbang and Yao, Cong},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2020}
+}
+```
+
 ## Background
 The annotations of $4$ of the most popular scene text recognition datasets are incomplete. 
 They are IIIT5K, SVT, SVTP, and CUTE-80. 
