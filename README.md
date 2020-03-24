@@ -1,7 +1,7 @@
 # Case-Sensitive-Scene-Text-Recognition-Datasets
 This project is part of the research work of the following paper: 
 
-__UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World (CVPR 2020)__ [\[GithubRepo\]](https://jyouhou.github.io/UnrealText/)
+__UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World (CVPR 2020)__ [\[GitHubRepo\]](https://jyouhou.github.io/UnrealText/)
 
 If you find this project useful in your research, you are encouraged to cite our paper: 
 
